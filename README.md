@@ -5,4 +5,4 @@ Please download the executable to run MouseAFK
 Press the 'end' key to start MouseAFK
 
 ## How to stop
-Bring mouse cursor to top left of monitor to stop the program
+Bring mouse cursor to the top left of the monitor to stop the program
